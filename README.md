@@ -18,4 +18,13 @@ The dashboard provides insights into:
 
 ## Power BI File
 
-The complete Power BI dashboard can be downloaded from this repository.
+The complete Power BI dashboard can be downloaded from this repository:
+
+`DataPharma.pbix`
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Data modeling
+- DAX measures
+- Data visualization
