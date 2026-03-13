@@ -15,3 +15,7 @@ The dashboard provides insights into:
 ## Dashboard Preview
 
 ![Dashboard Overview](images/Executive_Summary_Pharma.png)
+
+## Power BI File
+
+The complete Power BI dashboard can be downloaded from this repository.
