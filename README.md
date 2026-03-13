@@ -13,3 +13,5 @@ The dashboard provides insights into:
 - KPI monitoring
 
 ## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png)
