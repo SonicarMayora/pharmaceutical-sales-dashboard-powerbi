@@ -14,4 +14,4 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](images/Executive_Summary_Pharma.png)
